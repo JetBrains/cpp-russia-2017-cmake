@@ -1,3 +1,5 @@
+[![obsolete JetBrains project](http://jb.gg/badges/obsolete.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+
 # CMake Workshop
 
 These are several sample projects to be used during C++ Russia JetBrains CMake workshop.
